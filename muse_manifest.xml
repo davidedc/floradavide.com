@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466019814186">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466020136110">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="4258278373" ref="index"/>
+    <file name="index.css" crc="27215661" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
@@ -75,5 +75,5 @@
     </folder>
     <file name="index.html" crc="351301754" seo="true" mt="1465042669210" redirect="true"/>
   </folder>
-  <file name="index.html" crc="163846533" seo="true" mt="1466019790166" redirect="true"/>
+  <file name="index.html" crc="227682710" seo="true" mt="1466020122018" redirect="true"/>
 </manifest>
