@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #9EDC8D;
+	color: #0000FD;
+	background-color: #D02BE5;
 }
 
 #page
@@ -63,18 +63,6 @@
 	position: relative;
 }
 
-#u6586
-{
-	z-index: 348;
-	width: 1160px;
-	height: 494px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
 {
 	cursor: pointer;
@@ -87,7 +75,7 @@
 
 #u1187-4
 {
-	z-index: 350;
+	z-index: 348;
 	min-height: 118px;
 	background-color: transparent;
 	line-height: 102px;
@@ -112,14 +100,14 @@
 
 #u1187-4-bw
 {
-	z-index: 350;
+	z-index: 348;
 	min-height: 118px;
 	margin-top: 205px;
 }
 
 #u1189-6
 {
-	z-index: 354;
+	z-index: 352;
 	min-height: 34px;
 	background-color: transparent;
 	line-height: 22px;
@@ -140,7 +128,7 @@
 
 #u1189-6-bw
 {
-	z-index: 354;
+	z-index: 352;
 	min-height: 34px;
 	margin-top: 296px;
 }
