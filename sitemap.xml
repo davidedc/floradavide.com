@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://floradavide.com/images/bkg_01.jpg</loc>
+    <loc>/images/bkg_01.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/bkg_02.jpg</loc>
+    <loc>/images/bkg_02.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/bkg_03.jpg</loc>
+    <loc>/images/bkg_03.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/bkg_04.jpg</loc>
+    <loc>/images/bkg_04.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/_fab9893_1.jpg</loc>
+    <loc>/images/_fab9893_1.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/img_0308.jpg</loc>
+    <loc>/images/img_0308.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/img_0211.jpg</loc>
+    <loc>/images/img_0211.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/img_9512.jpg</loc>
+    <loc>/images/img_9512.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/dsc01146%20copy.jpg</loc>
+    <loc>/images/dsc01146%20copy.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/images/dsc01146%20copy480x320.jpg</loc>
+    <loc>/images/dsc01146%20copy480x320.jpg</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://floradavide.com/index.html</loc>
+    <loc>/index.html</loc>
     <lastmod>2016-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://floradavide.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="/phone/index.html"/>
   </url>
 </urlset>
