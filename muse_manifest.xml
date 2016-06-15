@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466020136110">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466023223465">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="27215661" ref="index"/>
+    <file name="index.css" crc="4287245295" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
@@ -15,10 +15,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="4219894366" ref="phone>index:index"/>
     <file name="museredirect.js" crc="71780213" ref="index"/>
-    <file name="form_check.php" crc="3805695515" ref="index"/>
-    <file name="form_throttle.php" crc="3802629389" ref="index"/>
-    <file name="form_process.php" crc="54267062" ref="index"/>
-    <file name="form-u5652.php" crc="3932278079" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
@@ -49,16 +45,10 @@
     <file name="u4911-r.png" crc="3804430813" ref="phone>index"/>
     <file name="u4911-m.png" crc="339474116" ref="phone>index"/>
     <file name="fab98931.jpg" crc="3853946937" seo="true" ref="index"/>
-    <file name="u5653-17.png" crc="196543987" ref="index"/>
-    <file name="u5653-17-r.png" crc="4045881670" ref="index"/>
-    <file name="u5653-17-m.png" crc="4063643058" ref="index"/>
-    <file name="u5653-17-fs.png" crc="3954233483" ref="index"/>
     <file name="img_0308.jpg" crc="3766380220" seo="true" ref="index"/>
-    <file name="img_0211.jpg" crc="500385717" seo="true" ref="index"/>
     <file name="img_9512.jpg" crc="455779146" seo="true" ref="index"/>
     <file name="dsc01146 copy.jpg" crc="130976290" seo="true" ref="index"/>
     <file name="img_0308-crop-u6408.jpg" crc="37534108" ref="index"/>
-    <file name="img_0211-crop-u6428.jpg" crc="4252741579" ref="index"/>
     <file name="img_9512-crop-u6448.jpg" crc="3915640197" ref="index"/>
     <file name="dsc01146 copy480x320.jpg" crc="512428304" seo="true" ref="index"/>
     <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index"/>
@@ -75,5 +65,5 @@
     </folder>
     <file name="index.html" crc="351301754" seo="true" mt="1465042669210" redirect="true"/>
   </folder>
-  <file name="index.html" crc="227682710" seo="true" mt="1466020122018" redirect="true"/>
+  <file name="index.html" crc="3939129191" seo="true" mt="1466023209342" redirect="true"/>
 </manifest>
