@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" resolutions="1x" timestamp="1466018861677">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466019636152">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="4258278373" ref="index"/>
+    <file name="index.css" crc="4087274637" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
@@ -49,6 +49,7 @@
     <file name="u4911-r.png" crc="3804430813" ref="phone>index"/>
     <file name="u4911-m.png" crc="339474116" ref="phone>index"/>
     <file name="_fab9893_1.jpg" crc="3853946937" seo="true" ref="index"/>
+    <file name="fab98931.jpg" crc="5455329" seo="true" ref="index"/>
     <file name="u5653-17.png" crc="196543987" ref="index"/>
     <file name="u5653-17-r.png" crc="4045881670" ref="index"/>
     <file name="u5653-17-m.png" crc="4063643058" ref="index"/>
@@ -73,7 +74,7 @@
       <file name="master_a-master.css" crc="115472969" ref="phone>index"/>
       <file name="index.css" crc="3877528523" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="486683512" seo="true" mt="1465042669210" redirect="true"/>
+    <file name="index.html" crc="351301754" seo="true" mt="1465042669210" redirect="true"/>
   </folder>
-  <file name="index.html" crc="533627961" seo="true" mt="1466018422941" redirect="true"/>
+  <file name="index.html" crc="4025571191" seo="true" mt="1466019532690" redirect="true"/>
 </manifest>
