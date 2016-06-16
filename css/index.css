@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #F710C1;
+	color: #0000FF;
+	background-color: #27ACF2;
 }
 
 #page
@@ -881,7 +881,7 @@
 {
 	z-index: 27;
 	width: 0.01px;
-	height: 1361px;
+	height: 1356px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
@@ -1157,7 +1157,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 544px;
+	margin-top: 541px;
 	left: 407px;
 }
 
@@ -1171,7 +1171,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 545px;
+	margin-top: 542px;
 }
 
 #u6708_img
@@ -1190,7 +1190,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 544px;
+	margin-top: 541px;
 	left: 203px;
 }
 
@@ -1230,7 +1230,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 817px;
+	margin-top: 812px;
 	left: 139px;
 }
 
@@ -1244,7 +1244,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 817px;
+	margin-top: 812px;
 	left: 619px;
 }
 
@@ -1257,7 +1257,7 @@
 	width: 480px;
 	height: 272px;
 	min-height: 0px;
-	margin: 817px -10000px 0px 0px;
+	margin: 812px -10000px 0px 0px;
 }
 
 #u6468_img,#u6748_img,#u6768_img,#u6788_img
@@ -1276,7 +1276,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 545px;
+	margin-top: 542px;
 	left: 585px;
 }
 
@@ -1289,7 +1289,7 @@
 	width: 480px;
 	height: 272px;
 	min-height: 0px;
-	margin: 545px -10000px 0px 0px;
+	margin: 542px -10000px 0px 0px;
 }
 
 #u6808_img
@@ -1308,7 +1308,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 544px;
+	margin-top: 541px;
 	left: 757px;
 }
 
@@ -1321,7 +1321,7 @@
 	width: 480px;
 	height: 272px;
 	min-height: 0px;
-	margin: 544px -10000px 0px 0px;
+	margin: 541px -10000px 0px 0px;
 }
 
 #u6688_img,#u6728_img,#u6828_img
@@ -1340,7 +1340,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1089px;
+	margin-top: 1084px;
 	left: 139px;
 }
 
@@ -1353,7 +1353,7 @@
 	width: 480px;
 	height: 272px;
 	min-height: 0px;
-	margin: 1089px -10000px 0px 0px;
+	margin: 1084px -10000px 0px 0px;
 }
 
 #u1365-3
@@ -1463,7 +1463,7 @@
 {
 	width: 0.01px;
 	margin-left: 225px;
-	margin-top: -1470px;
+	margin-top: -1465px;
 }
 
 #u6862-5
@@ -1522,7 +1522,7 @@
 	width: 960px;
 	min-height: 117px;
 	background-color: transparent;
-	margin-top: 207px;
+	margin-top: 212px;
 	position: relative;
 }
 
