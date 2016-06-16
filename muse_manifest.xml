@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466023223465">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466103880368">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="4287245295" ref="index"/>
+    <file name="index.css" crc="137923570" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
@@ -57,6 +57,24 @@
     <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
     <file name="arrows-mn_close white.png" crc="4081992300" ref="index"/>
     <file name="arrows-mn_close.png" crc="206776778" ref="index"/>
+    <file name="297.jpg" crc="3946885579" seo="true" ref="index"/>
+    <file name="473.jpg" crc="290390051" seo="true" ref="index"/>
+    <file name="1170.jpg" crc="381690698" seo="true" ref="index"/>
+    <file name="dsc00107.jpg" crc="169024006" seo="true" ref="index"/>
+    <file name="dsc00320.jpg" crc="95570448" seo="true" ref="index"/>
+    <file name="dsc00439-2.jpg" crc="188564095" seo="true" ref="index"/>
+    <file name="dsc00441_2.jpg" crc="4090079176" seo="true" ref="index"/>
+    <file name="img_4577 copy.jpg" crc="245674447" seo="true" ref="index"/>
+    <file name="img_8347.jpg" crc="16873058" seo="true" ref="index"/>
+    <file name="297204x272.jpg" crc="4200254302" seo="true" ref="index"/>
+    <file name="473204x272.jpg" crc="4224162905" seo="true" ref="index"/>
+    <file name="1170204x272.jpg" crc="238250706" seo="true" ref="index"/>
+    <file name="dsc00107480x320.jpg" crc="3759724992" seo="true" ref="index"/>
+    <file name="dsc00320480x320.jpg" crc="3834589043" seo="true" ref="index"/>
+    <file name="dsc00439-2480x320.jpg" crc="441522838" seo="true" ref="index"/>
+    <file name="dsc00441_2182x272.jpg" crc="131344968" seo="true" ref="index"/>
+    <file name="img_4577 copy204x272.jpg" crc="4229641102" seo="true" ref="index"/>
+    <file name="img_8347-crop-u6848.jpg" crc="3961769137" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -65,5 +83,5 @@
     </folder>
     <file name="index.html" crc="351301754" seo="true" mt="1465042669210" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3939129191" seo="true" mt="1466023209342" redirect="true"/>
+  <file name="index.html" crc="4150738542" seo="true" mt="1466103847844" redirect="true"/>
 </manifest>
