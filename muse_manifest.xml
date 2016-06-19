@@ -1,49 +1,23 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466354183790">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466355067448">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
     <file name="index.css" crc="3884566562" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
-    <file name="museutils.js" crc="3790713428" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
-    <file name="webpro.js" crc="329496574" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="phone>index:index"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="phone>index:index"/>
-    <file name="touchswipe.js" crc="497316881" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="4219894366" ref="phone>index:index"/>
-    <file name="museredirect.js" crc="71780213" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="bkg_01.jpg" crc="187427901" seo="true" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
-    <file name="bkg_02.jpg" crc="431156423" seo="true" ref="phone>index"/>
-    <file name="bkg_03.jpg" crc="114254416" seo="true" ref="phone>index"/>
-    <file name="bkg_04.jpg" crc="74305810" seo="true" ref="phone>index"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
-    <file name="gallery_01.jpg" crc="3875693654" ref="phone>index"/>
-    <file name="gallery_02.jpg" crc="281292745" ref="phone>index"/>
-    <file name="gallery_04.jpg" crc="366122470" ref="phone>index"/>
-    <file name="gallery_03.jpg" crc="4096828589" ref="phone>index"/>
-    <file name="gallery_05.jpg" crc="3928228563" ref="phone>index"/>
-    <file name="gallery_07.jpg" crc="4158531500" ref="phone>index"/>
-    <file name="gallery_06.jpg" crc="3909654860" ref="phone>index"/>
-    <file name="gallery_08.jpg" crc="141611219" ref="phone>index"/>
-    <file name="u4913.png" crc="4034241791" ref="phone>index"/>
-    <file name="u4913-r.png" crc="11606201" ref="phone>index"/>
-    <file name="u4913-m.png" crc="397068407" ref="phone>index"/>
-    <file name="u4907.png" crc="4233824179" ref="phone>index"/>
-    <file name="u4907-r.png" crc="4024114096" ref="phone>index"/>
-    <file name="u4907-m.png" crc="485405479" ref="phone>index"/>
-    <file name="u4909.png" crc="74875555" ref="phone>index"/>
-    <file name="u4909-r.png" crc="447911288" ref="phone>index"/>
-    <file name="u4909-m.png" crc="518762022" ref="phone>index"/>
-    <file name="u4911.png" crc="4100431995" ref="phone>index"/>
-    <file name="u4911-r.png" crc="3804430813" ref="phone>index"/>
-    <file name="u4911-m.png" crc="339474116" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="img_0308.jpg" crc="3766380220" seo="true" ref="index"/>
     <file name="img_9512.jpg" crc="455779146" seo="true" ref="index"/>
     <file name="dsc01146 copy.jpg" crc="130976290" seo="true" ref="index"/>
@@ -76,12 +50,5 @@
     <file name="img_8347-crop-u6848.jpg" crc="3854751655" ref="index"/>
     <file name="baked-header-hero-image.jpg" crc="4047412263" seo="true" ref="index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="115472969" ref="phone>index"/>
-      <file name="index.css" crc="3877528523" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="351301754" seo="true" mt="1465042669210" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="267783968" seo="true" mt="1466354154652" redirect="true"/>
+  <file name="index.html" crc="52116384" seo="true" mt="1466355052262" redirect="true"/>
 </manifest>
