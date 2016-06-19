@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #165432;
+	color: #0000E7;
+	background-color: #89C822;
 }
 
 #page
@@ -224,6 +224,21 @@
 	left: 193px;
 }
 
+#u1182-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 34px;
+	width: 193px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1182-4:hover p
+{
+	color: #A8A8A8;
+	visibility: inherit;
+}
+
 #u1183-4
 {
 	z-index: 347;
@@ -247,7 +262,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1182-4:hover p,#u1183-4:hover p
+#u1183-4:hover p
 {
 	color: #A8A8A8;
 	visibility: inherit;
@@ -312,7 +327,7 @@
 	left: 193px;
 }
 
-#u1182-4:hover,#u5640-5:hover
+#u1182-4.MuseLinkActive,#u5640-5:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -336,7 +351,7 @@
 	visibility: inherit;
 }
 
-#u1185-4.MuseLinkActive p,#u1183-4.MuseLinkActive p,#u5637-4.MuseLinkActive p,#u5640-5.MuseLinkActive p,#u5640-5.MuseLinkActive span
+#u1185-4.MuseLinkActive p,#u1182-4.MuseLinkActive p,#u1183-4.MuseLinkActive p,#u5637-4.MuseLinkActive p,#u5640-5.MuseLinkActive p,#u5640-5.MuseLinkActive span
 {
 	color: #B5B5B5;
 	visibility: inherit;
@@ -354,10 +369,10 @@
 	line-height: 14px;
 }
 
-#about
+#info
 {
 	margin-left: 469px;
-	margin-top: 110px;
+	margin-top: 76px;
 	position: relative;
 }
 
@@ -365,7 +380,7 @@
 {
 	width: 0.01px;
 	margin-left: 347px;
-	margin-top: -1px;
+	margin-top: 33px;
 }
 
 #u1192-4
@@ -602,13 +617,13 @@
 	margin-right: -10000px;
 }
 
-#about2
+#register
 {
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 92px;
-	left: 469px;
+	margin-top: 19px;
+	left: 458px;
 }
 
 #u6570-7
@@ -694,6 +709,15 @@
 	font-style: normal;
 }
 
+#hotelsandrestaurants
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 469px;
+}
+
 #u5759-4
 {
 	z-index: 158;
@@ -705,11 +729,11 @@
 	left: 520px;
 }
 
-#about3
+#pu6520-4
 {
-	margin-left: 469px;
-	margin-top: 39px;
-	position: relative;
+	width: 0.01px;
+	margin-left: 216px;
+	margin-top: 59px;
 }
 
 #u6520-4
@@ -773,6 +797,15 @@
 	margin-right: -10000px;
 }
 
+#tourism
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 469px;
+}
+
 #u6526-26
 {
 	z-index: 206;
@@ -784,18 +817,11 @@
 	left: 520px;
 }
 
-#about4
-{
-	margin-left: 469px;
-	margin-top: 34px;
-	position: relative;
-}
-
-#pu6520-4,#pu6541-4
+#pu6541-4
 {
 	width: 0.01px;
 	margin-left: 216px;
-	margin-top: 2px;
+	margin-top: 54px;
 }
 
 #u6541-4
@@ -870,11 +896,11 @@
 	left: 520px;
 }
 
-#pslideshowu1326
+#gallery
 {
-	width: 0.01px;
-	margin-left: -1229px;
-	margin-top: 92px;
+	margin-left: 469px;
+	margin-top: 37px;
+	position: relative;
 }
 
 #slideshowu1326
@@ -882,10 +908,9 @@
 	z-index: 27;
 	width: 0.01px;
 	height: 1356px;
+	left: -139px;
+	margin-top: 158px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 121px;
-	left: 1090px;
 }
 
 #u1327
@@ -1449,14 +1474,6 @@
 	min-height: 0px;
 	margin: 0px;
 	background: #FFFFFF url("../images/arrows-mn_close.png") no-repeat center center;
-}
-
-#gallery
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	left: 1698px;
 }
 
 #pu6862-5
