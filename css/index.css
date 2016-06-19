@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #27ACF2;
+	color: #00000E;
+	background-color: #165432;
 }
 
 #page
@@ -73,7 +73,7 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u1187-4
+#u1187-3
 {
 	z-index: 368;
 	min-height: 118px;
@@ -87,7 +87,7 @@
 	font-weight: 500;
 }
 
-#u1187-2
+#u1187
 {
 	padding-right: 100px;
 	padding-left: 100px;
@@ -103,16 +103,16 @@
 	visibility: visible;
 }
 
-#u1187-4-bw
+#u1187-3-bw
 {
 	z-index: 368;
 	min-height: 118px;
 	margin-top: 182px;
 }
 
-#u1189-6
+#u1189-3
 {
-	z-index: 372;
+	z-index: 371;
 	min-height: 34px;
 	background-color: transparent;
 	line-height: 22px;
@@ -124,19 +124,19 @@
 	font-weight: 400;
 }
 
-#u1189-2,#u1189-4
+#u1189
 {
 	padding-right: 100px;
 	padding-left: 100px;
 	padding-top: 9px;
 }
 
-#u1189-6-bw
+#u1189-3-bw
 {
-	z-index: 372;
+	z-index: 371;
 	min-height: 34px;
 	margin-top: -161px;
-	margin-bottom: -62px;
+	margin-bottom: -34px;
 }
 
 #u1180
@@ -155,7 +155,7 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	top: 494px;
+	top: 466px;
 }
 
 #u1186
@@ -1365,8 +1365,8 @@
 	border-width: 3px;
 	border-color: #474747;
 	border-radius: 100px;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 236px;
@@ -1400,8 +1400,8 @@
 	border-width: 3px;
 	border-color: #474747;
 	border-radius: 100px;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 236px;

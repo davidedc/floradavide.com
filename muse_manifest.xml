@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466104399468">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466353657736">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="4280790258" ref="index"/>
+    <file name="index.css" crc="236344370" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
@@ -44,7 +44,6 @@
     <file name="u4911.png" crc="4100431995" ref="phone>index"/>
     <file name="u4911-r.png" crc="3804430813" ref="phone>index"/>
     <file name="u4911-m.png" crc="339474116" ref="phone>index"/>
-    <file name="fab98931.jpg" crc="3853946937" seo="true" ref="index"/>
     <file name="img_0308.jpg" crc="3766380220" seo="true" ref="index"/>
     <file name="img_9512.jpg" crc="455779146" seo="true" ref="index"/>
     <file name="dsc01146 copy.jpg" crc="130976290" seo="true" ref="index"/>
@@ -74,7 +73,8 @@
     <file name="dsc00439-2480x320.jpg" crc="441522838" seo="true" ref="index"/>
     <file name="dsc00441_2182x272.jpg" crc="131344968" seo="true" ref="index"/>
     <file name="img_4577 copy204x272.jpg" crc="4229641102" seo="true" ref="index"/>
-    <file name="img_8347-crop-u6848.jpg" crc="3961769137" ref="index"/>
+    <file name="img_8347-crop-u6848.jpg" crc="3854751655" ref="index"/>
+    <file name="baked-header-hero-image.jpg" crc="4047412263" seo="true" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -83,5 +83,5 @@
     </folder>
     <file name="index.html" crc="351301754" seo="true" mt="1465042669210" redirect="true"/>
   </folder>
-  <file name="index.html" crc="349724435" seo="true" mt="1466104355334" redirect="true"/>
+  <file name="index.html" crc="3973179388" seo="true" mt="1466353643554" redirect="true"/>
 </manifest>
