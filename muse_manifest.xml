@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466461808014">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466536941113">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="217313185" ref="index"/>
-    <file name="nomq_index.css" crc="3800971307" ref="index"/>
+    <file name="index.css" crc="4113295555" ref="index"/>
+    <file name="nomq_index.css" crc="145488696" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -78,6 +78,10 @@
     <file name="img_8347-crop-u68484.jpg" crc="199734149" ref="index"/>
     <file name="img_9512-crop-u64485.jpg" crc="102728438" ref="index"/>
     <file name="img_8347-crop-u68485.jpg" crc="199734149" ref="index"/>
+    <file name="pasted image 278x185.jpg" crc="19959225" seo="true" ref="index"/>
+    <file name="pasted image 300x200.jpg" crc="285256491" seo="true" ref="index"/>
+    <file name="img_0815.jpg" crc="3937717319" seo="true" ref="index"/>
+    <file name="img_0816.jpg" crc="3990338573" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="315708849" seo="true" mt="1466461780586" redirect="true"/>
+  <file name="index.html" crc="61324056" seo="true" mt="1466536907365" redirect="true"/>
 </manifest>
