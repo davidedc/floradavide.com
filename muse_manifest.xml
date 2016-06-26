@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466961678167">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466968181131">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="4267002241" ref="index"/>
-    <file name="nomq_index.css" crc="526169437" ref="index"/>
+    <file name="index.css" crc="3770554675" ref="index"/>
+    <file name="nomq_index.css" crc="298520137" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -13,73 +13,29 @@
     <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
     <file name="touchswipe.js" crc="497316881" ref="index"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index"/>
-    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index"/>
-    <file name="arrows-mn_arrow_right white.png" crc="3810799187" ref="index"/>
-    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
-    <file name="arrows-mn_close white.png" crc="4081992300" ref="index"/>
-    <file name="arrows-mn_close.png" crc="206776778" ref="index"/>
     <file name="baked-header-hero-image.jpg" crc="4047412263" seo="true" ref="index"/>
-    <file name="297.jpg" crc="3946885579" seo="true" ref="index"/>
-    <file name="473.jpg" crc="290390051" seo="true" ref="index"/>
-    <file name="1170.jpg" crc="381690698" seo="true" ref="index"/>
-    <file name="dsc00107.jpg" crc="169024006" seo="true" ref="index"/>
-    <file name="dsc00320.jpg" crc="95570448" seo="true" ref="index"/>
-    <file name="dsc00439-2.jpg" crc="188564095" seo="true" ref="index"/>
-    <file name="dsc00441_2.jpg" crc="4090079176" seo="true" ref="index"/>
-    <file name="img_4577 copy.jpg" crc="245674447" seo="true" ref="index"/>
-    <file name="img_8347.jpg" crc="16873058" seo="true" ref="index"/>
-    <file name="dsc01146 copy.jpg" crc="130976290" seo="true" ref="index"/>
-    <file name="img_0308.jpg" crc="3766380220" seo="true" ref="index"/>
-    <file name="img_9512.jpg" crc="455779146" seo="true" ref="index"/>
-    <file name="img_0308-crop-u6408.jpg" crc="37534108" ref="index"/>
-    <file name="img_9512-crop-u6448.jpg" crc="3915640197" ref="index"/>
-    <file name="dsc01146 copy480x320.jpg" crc="512428304" seo="true" ref="index"/>
-    <file name="297204x272.jpg" crc="4200254302" seo="true" ref="index"/>
-    <file name="473204x272.jpg" crc="4224162905" seo="true" ref="index"/>
-    <file name="1170204x272.jpg" crc="238250706" seo="true" ref="index"/>
-    <file name="dsc00320480x320.jpg" crc="3834589043" seo="true" ref="index"/>
-    <file name="dsc00439-2480x320.jpg" crc="441522838" seo="true" ref="index"/>
-    <file name="dsc00441_2182x272.jpg" crc="131344968" seo="true" ref="index"/>
-    <file name="img_4577 copy204x272.jpg" crc="4229641102" seo="true" ref="index"/>
-    <file name="img_8347-crop-u6848.jpg" crc="3854751655" ref="index"/>
-    <file name="dsc00107480x320.jpg" crc="3759724992" seo="true" ref="index"/>
-    <file name="img_0308380x285.jpg" crc="378801467" seo="true" ref="index"/>
-    <file name="img_9512-crop-u64482.jpg" crc="4060211067" ref="index"/>
-    <file name="dsc01146 copy409x272.jpg" crc="4022641414" seo="true" ref="index"/>
-    <file name="297162x216.jpg" crc="238172102" seo="true" ref="index"/>
-    <file name="473166x222.jpg" crc="225807127" seo="true" ref="index"/>
-    <file name="1170166x221.jpg" crc="3854685959" seo="true" ref="index"/>
-    <file name="dsc00320409x272.jpg" crc="509552379" seo="true" ref="index"/>
-    <file name="dsc00439-2409x272.jpg" crc="4684782" seo="true" ref="index"/>
-    <file name="dsc00441_2166x249.jpg" crc="65730528" seo="true" ref="index"/>
-    <file name="img_4577 copy166x221.jpg" crc="526716630" seo="true" ref="index"/>
-    <file name="img_8347-crop-u68482.jpg" crc="4087374191" ref="index"/>
-    <file name="dsc00107409x272.jpg" crc="3834088014" seo="true" ref="index"/>
-    <file name="img_0308300x225.jpg" crc="3928829854" seo="true" ref="index"/>
-    <file name="img_9512-crop-u64483.jpg" crc="102728438" ref="index"/>
-    <file name="dsc01146 copy302x201.jpg" crc="247593362" seo="true" ref="index"/>
-    <file name="297128x171.jpg" crc="535094887" seo="true" ref="index"/>
-    <file name="473131x176.jpg" crc="190354840" seo="true" ref="index"/>
-    <file name="1170131x175.jpg" crc="4085154305" seo="true" ref="index"/>
-    <file name="dsc00320302x201.jpg" crc="530951045" seo="true" ref="index"/>
-    <file name="dsc00439-2302x201.jpg" crc="264552034" seo="true" ref="index"/>
-    <file name="dsc00441_2131x197.jpg" crc="40303146" seo="true" ref="index"/>
-    <file name="img_4577 copy131x175.jpg" crc="159930737" seo="true" ref="index"/>
-    <file name="img_8347-crop-u68483.jpg" crc="199734149" ref="index"/>
-    <file name="dsc00107302x201.jpg" crc="403691089" seo="true" ref="index"/>
-    <file name="img_9512-crop-u64484.jpg" crc="102728438" ref="index"/>
-    <file name="img_8347-crop-u68484.jpg" crc="199734149" ref="index"/>
+    <file name="297.jpg" crc="3946885579" ref="index"/>
+    <file name="473.jpg" crc="290390051" ref="index"/>
+    <file name="1170.jpg" crc="381690698" ref="index"/>
+    <file name="dsc00107.jpg" crc="169024006" ref="index"/>
+    <file name="dsc00320.jpg" crc="95570448" ref="index"/>
+    <file name="dsc00439-2.jpg" crc="188564095" ref="index"/>
+    <file name="dsc00441_2.jpg" crc="4090079176" ref="index"/>
+    <file name="img_4577 copy.jpg" crc="245674447" ref="index"/>
+    <file name="img_8347.jpg" crc="16873058" ref="index"/>
+    <file name="dsc01146 copy.jpg" crc="130976290" ref="index"/>
+    <file name="img_0308.jpg" crc="3766380220" ref="index"/>
+    <file name="img_9512.jpg" crc="455779146" ref="index"/>
     <file name="pasted image 278x185.jpg" crc="19959225" seo="true" ref="index"/>
     <file name="pasted image 300x200.jpg" crc="285256491" seo="true" ref="index"/>
     <file name="img_0815.jpg" crc="3937717319" seo="true" ref="index"/>
     <file name="img_0816.jpg" crc="3990338573" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="229709176" seo="true" mt="1466961634019" redirect="true"/>
+  <file name="index.html" crc="430036556" seo="true" mt="1466968143972" redirect="true"/>
 </manifest>
