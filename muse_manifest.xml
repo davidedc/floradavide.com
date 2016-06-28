@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1466968181131">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467140506782">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="3770554675" ref="index"/>
-    <file name="nomq_index.css" crc="298520137" ref="index"/>
+    <file name="index.css" crc="379470789" ref="index"/>
+    <file name="nomq_index.css" crc="239058471" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -36,6 +36,44 @@
     <file name="pasted image 300x200.jpg" crc="285256491" seo="true" ref="index"/>
     <file name="img_0815.jpg" crc="3937717319" seo="true" ref="index"/>
     <file name="img_0816.jpg" crc="3990338573" seo="true" ref="index"/>
+    <file name="dsc01160.jpg" crc="4050801310" seo="true" ref="index"/>
+    <file name="dsc01180.jpg" crc="259568380" seo="true" ref="index"/>
+    <file name="dsc01211.jpg" crc="4211558023" seo="true" ref="index"/>
+    <file name="dsc01782.jpg" crc="4207560661" seo="true" ref="index"/>
+    <file name="dsc01951.jpg" crc="4210073" seo="true" ref="index"/>
+    <file name="dsc02406.jpg" crc="3892739050" seo="true" ref="index"/>
+    <file name="img_0211.jpg" crc="4184511627" seo="true" ref="index"/>
+    <file name="img_0596.jpg" crc="4134496141" seo="true" ref="index"/>
+    <file name="img_2670.jpg" crc="427878089" seo="true" ref="index"/>
+    <file name="img_6449.jpg" crc="367500357" seo="true" ref="index"/>
+    <file name="p1240818.jpg" crc="185039737" seo="true" ref="index"/>
+    <file name="pict0062.jpg" crc="4267689211" seo="true" ref="index"/>
+    <file name="pict0209.jpg" crc="289820608" seo="true" ref="index"/>
+    <file name="dsc02406-crop-u20972.jpg" crc="4053408661" ref="index"/>
+    <file name="dsc02406-crop-u209722.jpg" crc="195184048" ref="index"/>
+    <file name="dsc01160800x534.jpg" crc="217843805" seo="true" ref="index"/>
+    <file name="dsc01180800x534.jpg" crc="180071800" seo="true" ref="index"/>
+    <file name="dsc01211800x534.jpg" crc="4124030667" seo="true" ref="index"/>
+    <file name="dsc01782800x534.jpg" crc="4113320276" seo="true" ref="index"/>
+    <file name="dsc01951800x534.jpg" crc="230400556" seo="true" ref="index"/>
+    <file name="img_0596800x601.jpg" crc="284975452" seo="true" ref="index"/>
+    <file name="img_2670800x601.jpg" crc="4036015636" seo="true" ref="index"/>
+    <file name="img_6449800x609.jpg" crc="150792844" seo="true" ref="index"/>
+    <file name="p1240818800x600.jpg" crc="3883711015" seo="true" ref="index"/>
+    <file name="pict0062800x600.jpg" crc="427098650" seo="true" ref="index"/>
+    <file name="pict0209800x600.jpg" crc="4003263366" seo="true" ref="index"/>
+    <file name="dsc01160614x410.jpg" crc="198966202" seo="true" ref="index"/>
+    <file name="dsc01180613x409.jpg" crc="501068429" seo="true" ref="index"/>
+    <file name="dsc01211613x409.jpg" crc="317049422" seo="true" ref="index"/>
+    <file name="dsc01782614x410.jpg" crc="359136213" seo="true" ref="index"/>
+    <file name="dsc01951614x410.jpg" crc="523449298" seo="true" ref="index"/>
+    <file name="dsc02406680x410.jpg" crc="105944521" seo="true" ref="index"/>
+    <file name="img_0596614x461.jpg" crc="528323930" seo="true" ref="index"/>
+    <file name="img_2670615x462.jpg" crc="4107039569" seo="true" ref="index"/>
+    <file name="img_6449615x468.jpg" crc="80217675" seo="true" ref="index"/>
+    <file name="p1240818615x462.jpg" crc="4153937964" seo="true" ref="index"/>
+    <file name="pict0062615x462.jpg" crc="4010113755" seo="true" ref="index"/>
+    <file name="pict0209615x462.jpg" crc="297099587" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="430036556" seo="true" mt="1466968143972" redirect="true"/>
+  <file name="index.html" crc="3990228040" seo="true" mt="1467140380719" redirect="true"/>
 </manifest>

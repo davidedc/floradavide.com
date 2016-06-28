@@ -2,37 +2,253 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://floradavide.com/images/baked-header-hero-image.jpg</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://floradavide.com/images/pasted%20image%20278x185.jpg</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://floradavide.com/images/pasted%20image%20300x200.jpg</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://floradavide.com/images/img_0815.jpg</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://floradavide.com/images/img_0816.jpg</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01160.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01180.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01211.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01782.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01951.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc02406.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_0211.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_0596.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_2670.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_6449.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/p1240818.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/pict0062.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/pict0209.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01160800x534.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01180800x534.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01211800x534.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01782800x534.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01951800x534.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_0596800x601.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_2670800x601.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_6449800x609.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/p1240818800x600.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/pict0062800x600.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/pict0209800x600.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01160614x410.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01180613x409.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01211613x409.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01782614x410.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc01951614x410.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/dsc02406680x410.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_0596614x461.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_2670615x462.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/img_6449615x468.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/p1240818615x462.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/pict0062615x462.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://floradavide.com/images/pict0209615x462.jpg</loc>
+    <lastmod>2016-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://floradavide.com/index.html</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
