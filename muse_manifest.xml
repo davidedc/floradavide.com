@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467146550321">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467148239869">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="218445508" ref="index"/>
-    <file name="nomq_index.css" crc="511334613" ref="index"/>
+    <file name="index.css" crc="344391472" ref="index"/>
+    <file name="nomq_index.css" crc="4269019368" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -23,8 +23,6 @@
     <file name="473.jpg" crc="290390051" ref="index" seo="true"/>
     <file name="dsc00107.jpg" crc="169024006" ref="index" seo="true"/>
     <file name="dsc00320.jpg" crc="95570448" ref="index" seo="true"/>
-    <file name="dsc00439-2.jpg" crc="188564095" ref="index" seo="true"/>
-    <file name="dsc00441_2.jpg" crc="4090079176" ref="index" seo="true"/>
     <file name="img_4577 copy.jpg" crc="245674447" ref="index" seo="true"/>
     <file name="img_8347.jpg" crc="16873058" ref="index" seo="true"/>
     <file name="dsc01146 copy.jpg" crc="130976290" ref="index" seo="true"/>
@@ -77,7 +75,6 @@
     <file name="473321x430.jpg" crc="311408951" seo="true" ref="index"/>
     <file name="dsc00107321x214.jpg" crc="328425231" seo="true" ref="index"/>
     <file name="dsc00320321x214.jpg" crc="441454508" seo="true" ref="index"/>
-    <file name="dsc00439-2321x214.jpg" crc="4069639091" seo="true" ref="index"/>
     <file name="img_0308321x241.jpg" crc="282115595" seo="true" ref="index"/>
     <file name="dsc01146 copy321x215.jpg" crc="94805831" seo="true" ref="index"/>
     <file name="img_4577 copy321x428.jpg" crc="3970798790" seo="true" ref="index"/>
@@ -104,5 +101,5 @@
     <file name="dsc01286320x213.jpg" crc="51927891" seo="true" ref="index"/>
     <file name="dsc02260320x213.jpg" crc="4250941453" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4008052680" seo="true" mt="1467146502313" redirect="true"/>
+  <file name="index.html" crc="148662385" seo="true" mt="1467148215948" redirect="true"/>
 </manifest>
