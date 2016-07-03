@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467542165542">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467543198812">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
-    <file name="index.css" crc="460136530" ref="index"/>
-    <file name="nomq_index.css" crc="4235701138" ref="index"/>
+    <file name="index.css" crc="4048552698" ref="index"/>
+    <file name="nomq_index.css" crc="3837330694" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -61,20 +61,6 @@
     <file name="dsc01211321x214.jpg" crc="4095212793" seo="true" ref="index"/>
     <file name="dsc01782321x214.jpg" crc="3864854085" seo="true" ref="index"/>
     <file name="dsc01951321x214.jpg" crc="3990325402" seo="true" ref="index"/>
-    <file name="dsc02406356x214.jpg" crc="4224681996" seo="true" ref="index"/>
-    <file name="img_0211321x358.jpg" crc="4150369384" seo="true" ref="index"/>
-    <file name="img_0596321x241.jpg" crc="125068684" seo="true" ref="index"/>
-    <file name="img_2670321x241.jpg" crc="3824613758" seo="true" ref="index"/>
-    <file name="img_6449321x245.jpg" crc="4046997038" seo="true" ref="index"/>
-    <file name="p1240818321x241.jpg" crc="4252220462" seo="true" ref="index"/>
-    <file name="pict0062321x241.jpg" crc="206511992" seo="true" ref="index"/>
-    <file name="pict0209321x241.jpg" crc="4233562735" seo="true" ref="index"/>
-    <file name="dsc00107321x214.jpg" crc="328425231" seo="true" ref="index"/>
-    <file name="dsc00320321x214.jpg" crc="441454508" seo="true" ref="index"/>
-    <file name="img_0308321x241.jpg" crc="282115595" seo="true" ref="index"/>
-    <file name="img_4577 copy321x428.jpg" crc="3970798790" seo="true" ref="index"/>
-    <file name="img_8347321x428.jpg" crc="196106163" seo="true" ref="index"/>
-    <file name="img_9512321x321.jpg" crc="78202409" seo="true" ref="index"/>
     <file name="img_2610.jpg" crc="4121480258" seo="true" ref="index"/>
     <file name="img_1233.jpg" crc="4253997755" seo="true" ref="index"/>
     <file name="img_0711.jpg" crc="3965730932" seo="true" ref="index"/>
@@ -87,19 +73,33 @@
     <file name="img_0673799x599.jpg" crc="174397241" seo="true" ref="index"/>
     <file name="dsc01286799x533.jpg" crc="174789898" seo="true" ref="index"/>
     <file name="dsc02260799x533.jpg" crc="431229127" seo="true" ref="index"/>
-    <file name="img_2610320x240.jpg" crc="504751091" seo="true" ref="index"/>
-    <file name="img_1233320x426.jpg" crc="59566551" seo="true" ref="index"/>
-    <file name="img_0711320x240.jpg" crc="6801867" seo="true" ref="index"/>
-    <file name="img_0673320x240.jpg" crc="4154381596" seo="true" ref="index"/>
-    <file name="dsc01286320x213.jpg" crc="51927891" seo="true" ref="index"/>
-    <file name="dsc02260320x213.jpg" crc="4250941453" seo="true" ref="index"/>
+    <file name="img_2610320x240.jpg" crc="376802084" seo="true" ref="index"/>
+    <file name="img_0711320x240.jpg" crc="526588544" seo="true" ref="index"/>
     <file name="img_0854.jpg" crc="481201490" seo="true" ref="index"/>
     <file name="img_0277.jpg" crc="3947210926" seo="true" ref="index"/>
     <file name="img_0854800x800.jpg" crc="467028519" seo="true" ref="index"/>
     <file name="img_0277798x599.jpg" crc="3994535356" seo="true" ref="index"/>
-    <file name="img_0854319x319.jpg" crc="4266697819" seo="true" ref="index"/>
-    <file name="img_0277320x240.jpg" crc="432267642" seo="true" ref="index"/>
-    <file name="dsc01146 copy321x214.jpg" crc="94805831" seo="true" ref="index"/>
+    <file name="dsc02260321x214.jpg" crc="94482785" seo="true" ref="index"/>
+    <file name="dsc02406354x214.jpg" crc="3803095330" seo="true" ref="index"/>
+    <file name="img_0211320x357.jpg" crc="3866468968" seo="true" ref="index"/>
+    <file name="img_1233320x427.jpg" crc="3822699262" seo="true" ref="index"/>
+    <file name="img_0596320x240.jpg" crc="119637305" seo="true" ref="index"/>
+    <file name="img_2670320x241.jpg" crc="3898586321" seo="true" ref="index"/>
+    <file name="img_6449320x244.jpg" crc="119024893" seo="true" ref="index"/>
+    <file name="p1240818320x240.jpg" crc="474225343" seo="true" ref="index"/>
+    <file name="pict0062320x240.jpg" crc="3766294942" seo="true" ref="index"/>
+    <file name="pict0209320x240.jpg" crc="3947165091" seo="true" ref="index"/>
+    <file name="dsc00107320x214.jpg" crc="491834412" seo="true" ref="index"/>
+    <file name="dsc00320320x214.jpg" crc="6045200" seo="true" ref="index"/>
+    <file name="img_0308320x241.jpg" crc="4013198364" seo="true" ref="index"/>
+    <file name="dsc01146 copy320x214.jpg" crc="461059757" seo="true" ref="index"/>
+    <file name="img_4577 copy320x427.jpg" crc="4169694678" seo="true" ref="index"/>
+    <file name="img_8347320x427.jpg" crc="294453850" seo="true" ref="index"/>
+    <file name="img_9512320x320.jpg" crc="3968794875" seo="true" ref="index"/>
+    <file name="img_0673320x241.jpg" crc="4237108975" seo="true" ref="index"/>
+    <file name="dsc01286320x214.jpg" crc="3995384687" seo="true" ref="index"/>
+    <file name="img_0854321x321.jpg" crc="340944809" seo="true" ref="index"/>
+    <file name="img_0277321x241.jpg" crc="4104009677" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="283301937" seo="true" mt="1467542015937" redirect="true"/>
+  <file name="index.html" crc="3980736835" seo="true" mt="1467543163487" redirect="true"/>
 </manifest>
