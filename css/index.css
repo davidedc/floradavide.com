@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #A46F49;
+	color: #0000F3;
+	background-color: #FBB7AC;
 }
 
 .js body
@@ -4409,7 +4409,6 @@
 	{
 		z-index: 317;
 		width: 320px;
-		margin-top: 1px;
 	}
 
 	#u21063
@@ -4442,7 +4441,6 @@
 	{
 		z-index: 325;
 		width: 320px;
-		margin-top: 1px;
 	}
 
 	#u21445
