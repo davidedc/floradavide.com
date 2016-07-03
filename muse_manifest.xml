@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467543768260">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="floradavide.com" resolutions="1x" timestamp="1467544073885">
   <folder name="css">
     <file name="site_global.css" crc="3793187469"/>
     <file name="index.css" crc="279211849" ref="index"/>
@@ -86,7 +86,6 @@
     <file name="img_0596320x240.jpg" crc="119637305" seo="true" ref="index"/>
     <file name="img_2670320x241.jpg" crc="3898586321" seo="true" ref="index"/>
     <file name="img_6449320x244.jpg" crc="119024893" seo="true" ref="index"/>
-    <file name="p1240818320x240.jpg" crc="474225343" seo="true" ref="index"/>
     <file name="pict0062320x240.jpg" crc="3766294942" seo="true" ref="index"/>
     <file name="pict0209320x240.jpg" crc="3947165091" seo="true" ref="index"/>
     <file name="dsc00107320x214.jpg" crc="491834412" seo="true" ref="index"/>
@@ -100,6 +99,7 @@
     <file name="dsc01286320x214.jpg" crc="3995384687" seo="true" ref="index"/>
     <file name="img_0854321x321.jpg" crc="340944809" seo="true" ref="index"/>
     <file name="img_0277321x241.jpg" crc="4104009677" seo="true" ref="index"/>
+    <file name="p1240818320x241.jpg" crc="474225343" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="390510560" seo="true" mt="1467543748332" redirect="true"/>
+  <file name="index.html" crc="381774247" seo="true" mt="1467544034214" redirect="true"/>
 </manifest>
